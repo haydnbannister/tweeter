@@ -7,7 +7,7 @@ Everything else is configured via/managed by AWS Amplify:
 * Backend: Managed GraphQL using AWS AppSync
 * Database: DynamoDB
 
-###Install and run
+### Install and run
 
 Get amplify CLI:
 
