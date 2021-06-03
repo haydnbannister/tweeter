@@ -1,4 +1,11 @@
 ## Multi-user Tweeting app with extremely original branding
+
+Currently deployed at: https://d32oq1zhzd7v3b.cloudfront.net/
+
+You can log in with username:password user1:userone -> user5:userfive"
+
+You can also create a new account. Make sure to use a valid email address, as you will be sent a confirmation email.
+
 ### Architecture:
 * Frontend: React
 
