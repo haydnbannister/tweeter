@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-tweeter-dev-211415-authRole",
+            "UnauthRoleArn": "arn:aws:iam::961546412046:role/amplify-tweeter-dev-211415-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::961546412046:role/amplify-tweeter-dev-211415-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-tweeter-dev-211415-deployment",
+            "UnauthRoleName": "amplify-tweeter-dev-211415-unauthRole",
+            "StackName": "amplify-tweeter-dev-211415",
+            "StackId": "arn:aws:cloudformation:eu-west-2:961546412046:stack/amplify-tweeter-dev-211415/1c661eb0-c3df-11eb-aa8e-02a4cc28f726",
+            "AmplifyAppId": "d3ri134kpedchs"
+        },
+        "categories": {
+            "auth": {
+                "tweeter70764ce4": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3ri134kpedchs",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
